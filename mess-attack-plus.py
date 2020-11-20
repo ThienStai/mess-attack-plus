@@ -6,11 +6,8 @@ print("\nWelcome to MessAttack v1.0 by thien")
 print("\nChoose a attack mode to begin:\n")
 print("unsafe : type as fast as possible, may cause lag")
 print("safe   : type with delay and fail-safe")
-print("absafe : have even more delay options")
-option = str(input("\nYour option: ")).lower()
+option = input("\nYour option: ").lower()
 MINIMUM_DURATION = 0.0001
-
-
 def countdown():
     for i in range(3):
         print("Attack start in %s ") % i
