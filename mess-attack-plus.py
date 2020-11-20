@@ -3,7 +3,7 @@ from time import sleep
 from os import system
 from pyinputplus import inputInt, inputFloat
 
-print("\nWelcome to MessAttack v1.0 by thien")
+print("\nWelcome to mess-attack-plus by thien")
 print("\nChoose a attack mode to begin:\n")
 print("unsafe : type as fast as possible, may cause lag")
 print("safe   : type with delay and fail-safe")
@@ -20,6 +20,7 @@ def countdown():
 def main():
     global FAILSAFE, FailSafeException, MINIMUM_DURATION
     while True:
+        system("cls")
         try:
             # ----------------------UNSAFE GO HERE------------------------
 
