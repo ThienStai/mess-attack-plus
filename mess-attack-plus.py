@@ -1,7 +1,6 @@
 from pyautogui import typewrite, FAILSAFE, press, MINIMUM_DURATION, FailSafeException
 from time import sleep
 from os import system
-from sys import exit
 from pyinputplus import inputInt, inputFloat
 print("\nWelcome to MessAttack v1.0 by thien")
 print("\nChoose a attack mode to begin:\n")
