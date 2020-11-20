@@ -1,10 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-h2{color: white;}
-h2:hover{color: aqua;}
-</style>
 </head>
 <h2>mess-attack-plus</h2>
 <hr><p>Download link: <a href="https://codeload.github.com/ThienStai/mess-attack-plus/zip/master">here</a> </p>
