@@ -59,34 +59,3 @@ def main():
 
 if __name__ == '__main__':
    main()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    else:
-        quit()
-except FailSafeException:
-    system("cls")
-    print("MessAttack now exiting!")
-    sleep(1)
-    exit()
