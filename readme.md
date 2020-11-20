@@ -3,6 +3,7 @@
 <hr>
 <p>How to run?</p>
 <ul>
+<li>Unzip the downloaded file</li>
 <li>If you just want to use the app, run the "mess-attack-plus.exe" file</li>
 <li>If you are a Python developer(like me), run the .py file with following module installed:
 <ul>
